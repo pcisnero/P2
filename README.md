@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README Markdown P2
 
 ----
@@ -25,3 +26,6 @@ I created header, footer, content and logic php files and I used 'include' or 'r
 ----
 ## A list of any plugins, libraries,
 * Pure CSS 
+=======
+Project 2
+>>>>>>> 9e9d71b9685dbc7512918755134bc096f9736e76
