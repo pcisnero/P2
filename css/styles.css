@@ -1,0 +1,72 @@
+
+
+.body {
+    background-image: url("images/password.png");
+}
+
+
+.labels1
+{
+	text-align: right;
+	padding: 5px;
+	font-weight: bold;
+    font-family: monospace;
+      color: #FF9933;
+}
+.labels2
+{
+    text-align: right;
+    padding: 5px;
+    font-weight: bold;
+    font-family: monospace;
+      color: #33CC33;
+}.labels3
+{
+    text-align: right;
+    padding: 5px;
+    font-weight: bold;
+    font-family: monospace;
+      color: #990099;
+}.labels4
+{
+    text-align: right;
+    padding: 5px;
+    font-weight: bold;
+    font-family: monospace;
+      color: #0066FF;
+}
+.inputs
+{
+    text-align: left;
+    padding: 5px;
+      color: #A5351C;
+}
+
+.Addtext
+{
+    text-align: left;
+    padding: 5px;
+      color: #686868 ;
+      font-family: monospace;
+}
+
+
+.title
+{
+    color: #484848;
+    font-size: 200%;
+    font-family: monospace;
+}
+
+.title2
+{
+    color: #484848;
+    font-size: 200%;
+    font-family: monospace;
+}
+.mypassword
+{
+    color: #CC0099;
+    font-size: 200%;
+    font-family: monospace;
+}
