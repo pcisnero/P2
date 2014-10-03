@@ -62,8 +62,7 @@ if($uppercase){
 
     $selected_words[$index]= ucfirst($word);
 
-			//echo $selected_words[$index]. '<br/>' ;
-
+			
 
 	}
 

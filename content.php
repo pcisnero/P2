@@ -56,7 +56,7 @@
 
 
 <footer>
-  <p>Posted by: Patricia Cisneros</p>
+  <p>Posted by: Patricia Cisneros Fernandez</p>
   <p>Contact information: <a href="pcisnerosfernandez@g.harvard.edu">
   pcisnerosfernandez@g.harvard.edu</a>.</p>
 </footer>

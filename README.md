@@ -5,8 +5,7 @@
 <<<<<<< HEAD
 see [Project 2](http://dwa15.me/P2/)
 =======
-see [Project 2](http://p1.dwa15.me/P1.html)
->>>>>>> 173d2a8cdc432e1403a6ea5d2ba826488ce40b44
+
 
 
 
@@ -22,8 +21,6 @@ see [Project 2](http://p1.dwa15.me/P1.html)
 <<<<<<< HEAD
 Link to the Jing Screencast [Project 2 Screencast ](http://screencast.com/t/ZljEjtnwj)
 =======
-Link to the Jing Screencast [Project 2 Screencast ](http://p1.dwa15.me/P1.html)
->>>>>>> 173d2a8cdc432e1403a6ea5d2ba826488ce40b44
 
 ----
 ## Any details the instructor or TA needs to know, for example, test credentials.
