@@ -2,7 +2,7 @@
 
 ----
 ## Live URL of the project?
-see [Project 2](http://p1.dwa15.me/P1.html)
+see [Project 2](http://dwa15.me/P2/)
 
 
 
@@ -15,7 +15,7 @@ see [Project 2](http://p1.dwa15.me/P1.html)
 ----
 ## Demo information: 
 
-Link to the Jing Screencast [Project 2 Screencast ](http://p1.dwa15.me/P1.html)
+Link to the Jing Screencast [Project 2 Screencast ](http://screencast.com/t/ZljEjtnwj)
 
 ----
 ## Any details the instructor or TA needs to know, for example, test credentials.
